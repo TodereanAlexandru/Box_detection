@@ -1,0 +1,11 @@
+﻿  OpenCVApplication.cpp
+c:\users\toder\desktop\anul4\srf\proiect\opencvapplication-vs2015_31_basic\opencvapplication.cpp(449): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\toder\desktop\anul4\srf\proiect\opencvapplication-vs2015_31_basic\opencvapplication.cpp(564): warning C4101: 'aux1': unreferenced local variable
+  OpenCVApplication.vcxproj -> C:\Users\toder\Desktop\ANUL4\SRF\Proiect\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.

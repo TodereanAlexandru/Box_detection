@@ -1,0 +1,8 @@
+﻿  OpenCVApplication.cpp
+c:\users\toder\desktop\proiect_box_detection\opencvapplication-vs2015_31_basic\opencvapplication.cpp(449): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\toder\desktop\proiect_box_detection\opencvapplication-vs2015_31_basic\opencvapplication.cpp(573): warning C4101: 'aux1': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'C:\Users\toder\Desktop\Proiect_box_Detection\OpenCVApplication-VS2015_31_basic\x64\Release\OpenCVApplication.exe'
